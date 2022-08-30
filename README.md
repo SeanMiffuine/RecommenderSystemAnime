@@ -12,6 +12,13 @@ Takes in 130k reviews from MyAnimeList, creating utility matrix and using K-near
 
 It recommends you Animes to watch based on public user reviews and data.
 
+### Demo
+![step 1](https://github.com/SeanMiffuine/RecommenderSystemAnime/blob/main/step1.jpg?raw=true)
+
+![step 2](https://github.com/SeanMiffuine/RecommenderSystemAnime/blob/main/step2.jpg?raw=true)
+
+![step 3](https://github.com/SeanMiffuine/RecommenderSystemAnime/blob/main/step3.jpg?raw=true)
+
 
 
 
