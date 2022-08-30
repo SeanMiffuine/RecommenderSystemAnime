@@ -26,6 +26,7 @@ It recommends you Animes to watch based on public user reviews and data.
 3. Enter selection and watch ML magic !
 
 
--
+.
+
 
 First run may take a couple of hours - TO MAKE FASTER - decrease size of data: remove_n = int(reviews.shape[0] * 90 / 100) -> remove_n = int(reviews.shape[0] * 99 / 100)
