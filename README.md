@@ -15,10 +15,15 @@ It recommends you Animes to watch based on public user reviews and data.
 ### Demo
 ![step 1](https://github.com/SeanMiffuine/RecommenderSystemAnime/blob/main/step1.png?raw=true)
 
+1. First rerun model
+
 ![step 2](https://github.com/SeanMiffuine/RecommenderSystemAnime/blob/main/step2.png?raw=true)
+
+2. Select favorite show(s) through lookup in database
 
 ![step 3](https://github.com/SeanMiffuine/RecommenderSystemAnime/blob/main/step3.png?raw=true)
 
+3. Enter selection and watch ML magic !
 
 
 
