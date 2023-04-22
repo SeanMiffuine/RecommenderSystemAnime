@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-re
 
 ### What is this Project ?
 
-This project is a machien learning recommender system built to recommend Japanese Animated Shows based on your current favorites !
+This project is a machine learning recommender system built to recommend Japanese Animated Shows based on your current favorites !
 Takes in 130k reviews from MyAnimeList, creating utility matrix and using K-nearest neighbours to train the model.
 
 It recommends you Animes to watch based on public user reviews and data.
